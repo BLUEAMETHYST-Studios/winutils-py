@@ -3,4 +3,4 @@ Like winutils, but in Python
 
 winutils (by BLUEAMETHYST-Studios) Port for python.
 
-License: GPL 3.0
+License: GNU GENERAL PUBLIC LICENSE Version 3.0
