@@ -1,4 +1,5 @@
-# winutils-py
+# winutils-py (IN EARLY-DEVELOPMENT)
+## *Python required!*
 Like winutils, but in Python
 
 winutils (by BLUEAMETHYST-Studios) Port for python.
