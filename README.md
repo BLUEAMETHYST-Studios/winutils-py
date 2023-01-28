@@ -2,6 +2,8 @@
 ## *Python required!*
 Like winutils, but in Python
 
+Discord: https://discord.gg/jDAGR26yXe
+
 winutils (by BLUEAMETHYST-Studios) Port for python.
 
 Winutils-PY is in early-development!
